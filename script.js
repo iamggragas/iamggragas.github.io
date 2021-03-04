@@ -6,8 +6,10 @@ document.querySelector('#click-computer-subject').addEventListener("click", clic
 document.querySelector('#click-ge-subject').addEventListener("click", clickGeSubject);
 document.querySelector('#click-prog').addEventListener("click", clickProg);
 document.querySelector('#click-food').addEventListener("click", clickFood);
+document.querySelector('#click-hobby').addEventListener("click", clickHobby);
+document.querySelector('#click-childhood-dream').addEventListener("click", clickChildhoodDream);
 
-function clickName(){
+function clickName() {
     CLICKSOUND.play();
     window.alert("Hi, my name is George Gragas.");
 }
