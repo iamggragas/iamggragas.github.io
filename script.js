@@ -36,3 +36,13 @@ function clickFood() {
     CLICKSOUND.play();
     window.alert("I love siopao and siomai. <3");
 }
+
+function clickHobby() {
+    CLICKSOUND.play();
+    window.alert("My hobbies are playing computer games. My favorite are Need for Speed most wanted and GTA. Occassionally, I spend my free time in building and creating game prototype. I also sleeping and eating.");
+}
+
+function clickChildhoodDream() {
+    CLICKSOUND.play();
+    window.alert("When I was a child, I dream of becoming a scientist. Then eventually, as I grew up, my dreams and visions dramatically shift to engineer, to architect, to graphic designer etc. This is due of practicality, financial hardships, etc. And now, I want to be a game developer. I wish to work in game company or game studio probably in Unity, Epic Games, Ubisoft, Rockstar Games etc.");
+}
