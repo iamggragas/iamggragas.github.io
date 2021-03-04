@@ -20,3 +20,26 @@ body {
 .flex-box-container-6 {
   padding: 20px;
 }
+
+.header,
+.footer {
+  background-color: #1cae54;
+  width: 100vw;
+  height: 100px;
+  animation-name: boxAnimation;
+  animation-duration: 3s;
+  animation-timing-function: ease-in;
+  animation-iteration-count: infinite;
+}
+
+@keyframes boxAnimation {
+  0% {
+    background-color: #1cae54;
+  }
+  45% {
+    background-color: #afa65c;
+  }
+  100% {
+    background-color: #3e570b;
+  }
+}
