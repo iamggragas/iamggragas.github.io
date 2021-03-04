@@ -1,0 +1,22 @@
+body {
+  background-color: #111223;
+}
+
+.container-1 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+  width: 75%;
+}
+
+.flex-box-container-1,
+.flex-box-container-2,
+.flex-box-container-3,
+.flex-box-container-4,
+.flex-box-container-5,
+.flex-box-container-6 {
+  padding: 20px;
+}
