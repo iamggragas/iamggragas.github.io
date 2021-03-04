@@ -31,7 +31,7 @@ function clickGeSubject() {
 
 function clickProg() {
     CLICKSOUND.play();
-    window.alert("I really love C# because it is the now I'm using to create and build games. Im looking forward to learn C++ to enhance my game development skills.");
+    window.alert("I really love C# because right now I'm using to create and build games. Im looking forward to learn C++ to enhance my game development skills.");
 }
 
 function clickFood() {
@@ -41,7 +41,7 @@ function clickFood() {
 
 function clickHobby() {
     CLICKSOUND.play();
-    window.alert("My hobbies are playing computer games. My favorite are Need for Speed most wanted and GTA. Occassionally, I spend my free time in building and creating game prototype. I also sleeping and eating.");
+    window.alert("My hobbies are playing computer games. My favorites are Need for Speed most wanted and GTA. Occassionally, I spend my free time in building and creating game prototype. I also sleeping and eating.");
 }
 
 function clickChildhoodDream() {
