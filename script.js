@@ -41,7 +41,7 @@ function clickFood() {
 
 function clickHobby() {
     CLICKSOUND.play();
-    window.alert("My hobbies are playing computer games. My favorites are Need for Speed most wanted and GTA. Occassionally, I spend my free time in building and creating game prototype. I also sleeping and eating.");
+    window.alert("My hobbies are playing computer games. My favorites are Need for Speed most wanted and GTA. Occassionally, I spend my free time in building and creating game prototype. I also love sleeping and eating.");
 }
 
 function clickChildhoodDream() {
